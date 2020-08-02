@@ -1,0 +1,21 @@
+{
+  "name": "Dicey-Business",
+  "version": "1.0.0",
+  "main": "Dice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.1",
+    "jquery": "^3.5.1",
+    "ts-loader": "^8.0.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
